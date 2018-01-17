@@ -14,5 +14,5 @@ echo "Установка расширений и тем..."
 
 for ext in "${extensions[@]}"
 do
-  code --install-extension $ext
+  /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code --install-extension $ext
 done
