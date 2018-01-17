@@ -97,7 +97,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Yukioru/bookmarks/master/v
 
 -------
 
-### Полезности
+### Настройки
 
 Заходим в параметры (<kbd>cmd</kbd>+<kbd>,</kbd>) и в правой половине окна добавляем:
 
@@ -134,6 +134,29 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Yukioru/bookmarks/master/v
 
 Остальные настройки на наше усмотрение и вкус.
 
--------
+### Сочетания клавиш
+
+| Комбинация                                         | Значение                                                                   |
+| -------------------------------------------------- | -------------------------------------------------------------------------- |
+| <kbd>ctrl</kbd>+<kbd>r</kbd>                       | Открыть последние рабочие области                                          |
+| <kbd>cmd</kbd>+<kbd>p</kbd>                        | Открыть файл (с поиском) внутри рабочей области                            |
+| <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>p</kbd>       | Выполнить действие                                                         |
+| <kbd>cmd</kbd>+<kbd>f</kbd>                        | Поиск по открытому файлу                                                   |
+| <kbd>cmd</kbd>+<kbd>option</kbd>+<kbd>f</kbd>      | Поиск и замена по открытому файлу                                          |
+| <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>f</kbd>       | Поиск по рабочей области                                                   |
+| <kbd>ctrl</kbd>+<kbd>q</kbd>                       | Переключение между вкладками ActivityBar (удерживая нажимать <kbd>q</kbd>) |
+| <kbd>cmd</kbd>+<kbd>option</kbd>+<kbd>up</kbd>     | Дублирование курсора вверх                                                 |
+| <kbd>cmd</kbd>+<kbd>option</kbd>+<kbd>down</kbd>   | Дублирование курсора вниз                                                  |
+| <kbd>option</kbd>+<kbd>shift</kbd>+<kbd>up</kbd>   | Дублирование строки/выделенных строк вверх                                 |
+| <kbd>option</kbd>+<kbd>shift</kbd>+<kbd>down</kbd> | Дублирование строки/выделенных строк вниз                                  |
+| <kbd>option</kbd>+<kbd>up</kbd>                    | Перемещение строки/выделенных строк вверх                                  |
+| <kbd>option</kbd>+<kbd>down</kbd>                  | Перемещение строки/выделенных строк вниз                                   |
+| <kbd>option</kbd>+<kbd>left</kbd>                  | Перемещение курсора по словам влево                                        |
+| <kbd>option</kbd>+<kbd>right</kbd>                 | Перемещение курсора по словам вправо                                       |
+| <kbd>cmd</kbd>+<kbd>left</kbd>                     | Перемещение курсора в начало строки                                        |
+| <kbd>cmd</kbd>+<kbd>right</kbd>                    | Перемещение курсора в конец строки                                         |
+| <kbd>cmd</kbd>+<kbd>up</kbd>                       | Перемещение курсора в начало файла                                         |
+| <kbd>cmd</kbd>+<kbd>down</kbd>                     | Перемещение курсора в конец файла                                          |
+ 
 
 *Данное пособие будет дополняться постепенно...*
