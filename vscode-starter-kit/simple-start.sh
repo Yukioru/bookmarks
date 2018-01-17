@@ -15,7 +15,7 @@ rm -rf /tmp/vscode.zip
 echo "Завершение..."
 echo ""
 echo ""
-echo "Для установки code в терминале откройте VSCode и выполните:"
+echo "Для установки code в терминале - откройте VSCode и выполните:"
 echo ""
 echo "[CMD]+[SHIFT]+[P]"
 echo ">install 'code'"
