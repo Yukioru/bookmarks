@@ -71,6 +71,14 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Yukioru/bookmarks/master/v
 
 -------
 
+**vscode-styled-components** - подсветка CSS параметров для styled компонентов.
+
+`code --install-extension jpoissonnier.vscode-styled-components`
+
+[![vscode-styled-components Marketplace](https://img.shields.io/badge/Marketplace-vscode%20styled%20components-blue.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+
+-------
+
 **npm Intellisense** - поддержка подсказок/автодополнений (IntelliSense) для импортов npm модулей.
 
 `code --install-extension christian-kohler.npm-intellisense`
