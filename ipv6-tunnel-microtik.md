@@ -4,7 +4,7 @@
 Открываем `New Terminal` в роутере и вводим следующее:
 1. Создаём интерфейс тоннеля 6to4
 ```
-/interface 6to4 add disabled=no local-address=109.169.222.53 mtu=1280 name=sit1 remote-address=<<<Server IPv4 Address>>>
+/interface 6to4 add disabled=no mtu=1280 name=sit1 remote-address=<<<Server IPv4 Address>>>
 ```
 `<<<Server IPv4 Address>>>` - IPv4 адрес тоннеля (берётся в подробностях на tunnelbroker.net)
 
