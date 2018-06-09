@@ -23,6 +23,11 @@
 `<<<Client IPv6 Address>>>` - Ваш IPv6 адрес тоннеля (берётся в подробностях на tunnelbroker.net)
 
 
+```
+/ipv6 address add address=<<<Routed /64: Address>>> interface=bridge-local advertise=yes
+```
+`<<<Routed /64: Address>>>` - Prefixes IPv6 (берётся в подробностях на tunnelbroker.net)
+
 
 ### В роутере создать запись в планировщике на каждый час со сл. содержимым:
 ```
