@@ -28,6 +28,16 @@
 ```
 `<<<Routed /64: Address>>>` - Prefixes IPv6 (берётся в подробностях на tunnelbroker.net)
 
+4. Включаем днс.
+```
+/ipv6 nd set [ find default=yes ] advertise-dns=yes
+```
+
+5. Настраиваем Google IPv6 DNS
+```
+/ip dns set allow-remote-requests=yes servers=2001:4860:4860::8888,2001:4860:4860::8844,8.8.8.8,8.8.4.4
+```
+
 
 ### В роутере создать запись в планировщике на каждый час со сл. содержимым:
 ```
