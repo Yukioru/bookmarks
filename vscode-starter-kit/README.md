@@ -63,14 +63,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Yukioru/bookmarks/master/v
 
 -------
 
-**IntelliSense for CSS class names** - поддержка подсказок/автодополнений (IntelliSense) CSS параметров.
-
-`code --install-extension Zignd.html-css-class-completion`
-
-[![IntelliSense for CSS class names Marketplace](https://img.shields.io/badge/Marketplace-IntelliSense%20for%20CSS%20class%20names-blue.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
-
--------
-
 **vscode-styled-components** - подсветка CSS параметров для styled компонентов.
 
 `code --install-extension jpoissonnier.vscode-styled-components`
