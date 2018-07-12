@@ -7,7 +7,6 @@ extensions=(
   "jpoissonnier.vscode-styled-components"
   "christian-kohler.npm-intellisense"
   "christian-kohler.path-intellisense"
-  "tinkertrain.theme-panda"
 )
 
 echo "Установка расширений и тем..."
