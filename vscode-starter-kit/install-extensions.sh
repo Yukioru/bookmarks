@@ -4,11 +4,11 @@ extensions=(
   "eamodio.gitlens"
   "dbaeumer.vscode-eslint"
   "robertohuertasm.vscode-icons"
+  "Zignd.html-css-class-completion"
   "jpoissonnier.vscode-styled-components"
   "christian-kohler.npm-intellisense"
   "christian-kohler.path-intellisense"
-  "marcoms.oceanic-plus"
-  "alefragnani.project-manager"
+  "tinkertrain.theme-panda"
 )
 
 echo "Установка расширений и тем..."
